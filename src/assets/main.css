@@ -29,7 +29,7 @@ body {
   padding: 1rem;
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: center;
   background-image: linear-gradient(
       62deg,
       rgba(7, 86, 160, 0.973) 13%,
